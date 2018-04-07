@@ -1,6 +1,7 @@
 <resources>
-    <string name="voice_recorder_plugin">Complemento de grabación de voces</string>
+    <string name="voice_recorder_plugin">Complemento de grabación de voz</string>
     <string name="voice_recorder">Grababadora de voz</string>
     <string name="cancel">Cancelar</string>
     <string name="share">Compartir</string>
+    <string name="unable_to_start_recording">No se ha podido comenzar a grabar</string>
 </resources>
